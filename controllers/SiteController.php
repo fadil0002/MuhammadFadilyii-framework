@@ -55,7 +55,7 @@ class SiteController extends Controller
         ];
     }
 
-    public function actionHello1($nama="Muhammad Fadil")
+    public function actionHello1($nama="Luthfiyyah Riznisa")
     {
         return "<h2>Hello " .$nama . "</h2>";
     }
